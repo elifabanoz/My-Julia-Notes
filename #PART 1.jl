@@ -150,7 +150,7 @@ println(showdebugprintln(a))
 
 mycos(x)=cos(x)
 mycos(thet::Float64) =cos(thet)
-# the use of :: to force Julia to chech the type
+# the use of :: to force Julia to check the type
 
 
 
